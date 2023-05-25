@@ -18,5 +18,5 @@ metadata:
 spec:
   type: website
   lifecycle: production
-  owner: artist-relations-team
+  owner: 개발총괄팀
   system: public-websites
