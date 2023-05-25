@@ -1,1 +1,9 @@
-
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: Ushahidi
+  description: camperjames exaple - ushahidi
+links:
+  - url: https://github.com/DeepJames/Ushahidi_Web
+    title: Examples Users
+    icon: web
