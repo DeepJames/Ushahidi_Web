@@ -4,7 +4,7 @@ metadata:
   name: camperjames-web
   description: The place to be, for great artists
   labels:
-    example.com/custom: custom_label_value
+    my-label: 이것은 내가 만든 라벨이야
   annotations:
     example.com/service-discovery: artistweb
     circleci.com/project-slug: github/example-org/artist-website
