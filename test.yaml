@@ -7,3 +7,10 @@ links:
   - url: https://github.com/DeepJames/Ushahidi_Web
     title: Examples Users
     icon: web
+spec:
+  type: service
+  lifecycle: experimental
+  owner: team-a
+  system: artist-engagement-portal
+  dependsOn: []
+  apiConsumedBy: []
