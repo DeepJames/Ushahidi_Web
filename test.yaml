@@ -4,7 +4,7 @@ metadata:
   name: camperjames-Ushahidi
   description: The Ushahidi Web Application
   labels:
-    my-label: 이것은 내가 만든 라벨이야
+    my-label: This is my label
   annotations:
     example.com/service-discovery: artistweb
     github/project-slug: github/DeepJames/Ushahidi_Web
